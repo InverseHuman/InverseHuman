@@ -1,16 +1,14 @@
-## Hi there 👋
+<h2 align="left">こんにちは! 私の名前は男です!</h2>
 
-<!--
-**InverseHuman/InverseHuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<br clear="both">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" height="200" src="https://i.pinimg.com/736x/a6/4d/18/a64d188397de5f78686ea4354ca3ce73.jpg"  />
+
+###
+
+<p align="left">私はサイバーセキュリティでのキャリアを始めたばかりですが、将来的には全世界に立ち向かい、この瞬間を待つだけです。</p>
+
+###
+
